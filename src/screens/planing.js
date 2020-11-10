@@ -6,7 +6,6 @@ import { SafeAreaView } from "react-native-safe-area-context";
 const Planning = () => {
   return (
     <SafeAreaView>
-      {" "}
       <View>
         <Text>Planning</Text>
       </View>
